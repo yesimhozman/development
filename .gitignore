@@ -11,7 +11,7 @@
 /config/packages/local.yaml
 /config/packages/local.yml
 
-/custom/*
+
 
 /build/*
 !/build/artifacts/.gitkeep
@@ -67,4 +67,3 @@ chromedriver.log
 
 ### misc
 .DS_Store
-/composer.lock
