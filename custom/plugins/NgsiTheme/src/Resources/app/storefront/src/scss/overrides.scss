@@ -1,0 +1,20 @@
+/*
+Override variable defaults
+==================================================
+This file is used to override default SCSS variables from the Shopware Storefront or Bootstrap.
+
+Because of the !default flags, theme variable overrides have to be declared beforehand.
+https://getbootstrap.com/docs/4.0/getting-started/theming/#variable-defaults
+*/
+$h1-font-size: 36px;
+$body-bg: #ffffff;
+$link-color: #01c2f1;
+$font-family-sans-serif: Roboto;
+$card-color: #38323b;
+$border-radius: 4px;
+$border-radius-lg: 4px;
+$border-radius-sm: 4px;
+$sw-color-brand-primary: #0293B7;
+$sw-color-brand-secondary: #01c2f1;
+$input-box-shadow: 2px 10px 25px rgba(74, 153, 211, 0.18);
+$ngsiblue:#01C2F1;
